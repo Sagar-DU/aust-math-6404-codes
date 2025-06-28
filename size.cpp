@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
@@ -11,6 +11,6 @@ int main()
     cout << "Size of short: " << sizeof(short) << " bytes" << endl;
     cout << "Size of long: " << sizeof(long) << " bytes" << endl;
     cout << "Size of wchar_t: " << sizeof(wchar_t) << " bytes" << endl;
-    
+
     return 0;
 }
